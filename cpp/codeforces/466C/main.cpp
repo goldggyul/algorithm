@@ -20,7 +20,7 @@ int main() {
         preSum[i] = preSum[i - 1] + arr[i];
     }
 
-    int result = 0;
+    long long result = 0;
     long long sum = preSum[n];
     if (sum % 3 == 0) {
         long long oneThirdSum = preSum[n] / 3;
