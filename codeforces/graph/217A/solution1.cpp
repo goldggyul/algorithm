@@ -1,4 +1,4 @@
-// https://www.youtube.com/watch?v=AVXKYCH7Myo
+//https://codeforces.com/problemset/problem/217/A
 #include <iostream>
 using namespace std;
 
