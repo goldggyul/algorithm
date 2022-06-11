@@ -41,6 +41,7 @@ void dijkstra(int source) {
         visited[cur.node] = true;
         isEdgeInTree[cur.edgeNum] = true;
         for (int i = 0; i < graph[cur.node].size(); i++) {
+            if (visited[graph[cur.node][i].first]) continue;
             pkt next;
             next.node = graph[cur.node][i].first;
             next.weightSum = cur.weightSum + weight[graph[cur.node][i].second];
