@@ -59,3 +59,7 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos
 .vscode
 codeforces/Div
+final_test
+codeforces/segment_tree/558E/solution.cpp
+codeforces/graph/721C/solution2.cpp
+codeforces/graph/721C/solution.cpp
