@@ -12,7 +12,8 @@
 |Graph|[BOJ](https://github.com/goldggyul/algorithm/tree/master/baekjoon/graph)|
 |Tree|[BOJ](https://github.com/goldggyul/algorithm/tree/master/baekjoon/tree), [Codeforces](https://github.com/goldggyul/algorithm/tree/master/codeforces/tree)|
 |Brute Force|[Codeforces](https://github.com/goldggyul/algorithm/tree/master/codeforces/brute_force)|
-|Divide & Conquer|[Codeforces](https://github.com/goldggyul/algorithm/tree/master/codeforces/divide_conquer)|
+|Two Pointer|[BOJ](https://github.com/goldggyul/algorithm/tree/master/baekjoon/two_pointer)|
+|Divide & Conquer|[BOJ](https://github.com/goldggyul/algorithm/tree/master/baekjoon/divide_conquer), [Codeforces](https://github.com/goldggyul/algorithm/tree/master/codeforces/divide_conquer)|
 |Backtracking|[BOJ](https://github.com/goldggyul/algorithm/tree/master/baekjoon/bfs)|
 |Greedy|[Codeforces](https://github.com/goldggyul/algorithm/tree/master/codeforces/greedy)|
 |Binary Search|[BOJ](https://github.com/goldggyul/algorithm/tree/master/baekjoon/binary_search)|
